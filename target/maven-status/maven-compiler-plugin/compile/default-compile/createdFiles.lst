@@ -1,0 +1,7 @@
+util\BrowserFactory.class
+page\AddDeposit.class
+page\AddContactPage.class
+page\BasePage.class
+page\DashboardPage.class
+page\MyName.class
+page\LoginPage.class
